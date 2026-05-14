@@ -15,8 +15,8 @@ Please read [Hono RPC with React Monorepo Template](https://dev.to/vladimirvovk/
 
 ## Quick start
 
-1. Clone the repo: `git clone <url>`.
-2. Change directory to the project with `cd <project-name>` command.
+1. Clone the repo: `git clone https://github.com/vladimir-vovk/hono-rpc-and-react-monorepo`.
+2. Change directory to the project with `cd hono-rpc-and-react-monorepo` command.
 3. Install dependencies: `pnpm i`.
 4. Run both the api and web with `pnpm dev`.
 5. Navigate to the `http://localhost:5173`. 🌎

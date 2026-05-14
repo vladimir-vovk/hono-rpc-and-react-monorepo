@@ -25,8 +25,8 @@ Happy hacking! 🤓
 
 ## Features
 
-- [pnpm](https://pnpm.io/).
-- [TypeScript](https://www.typescriptlang.org/).
+- [pnpm](https://pnpm.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en)
 - [Hono](https://hono.dev/)
 - [Vite React](https://vite.dev/)

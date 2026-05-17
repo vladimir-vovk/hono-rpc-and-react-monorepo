@@ -11,7 +11,7 @@ Let's see how we can create a monorepo with Hono API and a React app.
 
 Using [Hono RPC](https://hono.dev/docs/guides/rpc) and pnpm [workspaces](https://pnpm.io/workspaces).
 
-Please read [Hono RPC with React Monorepo Template](https://dev.to/vladimirvovk/hono-rpc-with-react-monorepo-template-32e7) article for details.
+Please read [Hono RPC with React Monorepo Template](https://vladimir.vovk.in/blog/hono-rpc-and-react-monorepo-template) article for details.
 
 ## Quick start
 
